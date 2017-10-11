@@ -20,6 +20,7 @@ Usage
 ----------------
 
 Select one category and copy the main address like below.
+
 <img src="assets/naver-software-main.png" width="600px">
 
 Clone this repo and enter
